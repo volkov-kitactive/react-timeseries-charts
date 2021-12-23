@@ -87,8 +87,8 @@
     "ringjs": "0.0.1"
   },
   "peerDependencies": {
-    "pondjs": "^0.8.0",
-    "react": "^15.3.1 || ^16.0"
+    "pondjs": "^0.8.0 || ^0.9.0",
+    "react": "^15.3.1 || ^16.0 || ^17.0"
   },
   "browserslist": [
     ">0.2%",
